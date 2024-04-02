@@ -18,3 +18,4 @@ trojan://opentunnel.net-whatusi@ust-2.optnl.com:443?peer=web.whatsapp.com#opentu
 trojan://opentunnel.net-whatusi@ust-2.optnl.com:443?peer=web.whatsapp.com#opentunnel.net-whatusi
 trojan://opentunnel.net-sultan11@ust-2.optnl.com:443?peer=m.whatsapp.com#opentunnel.net-sultan11
 trojan://xxoo@us.blazeppn.info:443?allowInsecure=1&peer=bos-a57.wlvpn.com#%F0%9F%87%BA%F0%9F%87%B8%20US-138.197.5.103-7258%20%7C%2070.364MB
+trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@172.67.192.61:2087?allowInsecure=1&peer=support.snapchat.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9

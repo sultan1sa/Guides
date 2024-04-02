@@ -24,3 +24,4 @@ trojan://c7ac054b-5bef-4d4e-b8db-e11636d805a6@us1.trojanvpn.de:2053?allowInsecur
 trojan://c7ac054b-5bef-4d4e-b8db-e11636d805a6@us1.trojanvpn.de:443?allowInsecure=1&peer=support.snapchat.com&obfs=grpc&path=grpc#sshocean-sshocean2rtujan_gRPC
 trojan://c7ac054b-5bef-4d4e-b8db-e11636d805a6@us1.trojanvpn.de:443?allowInsecure=1&peer=support.snapchat.com&plugin=obfs-local;obfs=websocket;obfs-host=us1.trojanvpn.de;obfs-uri=/websocket#sshocean-sshocean2rtujan_ws
 trojan://27876_t7d7f4e3f@23.142.200.175:443?allowInsecure=1&peer=support.snapchat.com#%F0%9F%87%BA%F0%9F%87%B8US-23.142.200.175-1062
+trojan://telegram-id-privatevpns@18.135.54.78:22222?allowInsecure=1&peer=support.snapchat.com#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2

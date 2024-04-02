@@ -19,3 +19,7 @@ trojan://opentunnel.net-whatusi@ust-2.optnl.com:443?peer=web.whatsapp.com#opentu
 trojan://opentunnel.net-sultan11@ust-2.optnl.com:443?peer=m.whatsapp.com#opentunnel.net-sultan11
 trojan://xxoo@us.blazeppn.info:443?allowInsecure=1&peer=bos-a57.wlvpn.com#%F0%9F%87%BA%F0%9F%87%B8%20US-138.197.5.103-7258%20%7C%2070.364MB
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@172.67.192.61:2087?allowInsecure=1&peer=support.snapchat.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+trojan://c7ac054b-5bef-4d4e-b8db-e11636d805a6@us1.trojanvpn.de:2053?security=tls&headerType=none&type=tcp&sni=support.snapchat.com#sshocean-sshocean2rtujan_tcp
+trojan://c7ac054b-5bef-4d4e-b8db-e11636d805a6@us1.trojanvpn.de:2053?allowInsecure=1&peer=support.snapchat.com#sshocean-sshocean2rtujan_tcp
+trojan://c7ac054b-5bef-4d4e-b8db-e11636d805a6@us1.trojanvpn.de:443?allowInsecure=1&peer=support.snapchat.com&obfs=grpc&path=grpc#sshocean-sshocean2rtujan_gRPC
+trojan://c7ac054b-5bef-4d4e-b8db-e11636d805a6@us1.trojanvpn.de:443?allowInsecure=1&peer=support.snapchat.com&plugin=obfs-local;obfs=websocket;obfs-host=us1.trojanvpn.de;obfs-uri=/websocket#sshocean-sshocean2rtujan_ws

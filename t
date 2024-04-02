@@ -1,0 +1,3 @@
+trojan://0091bdde-88db-4b40-b15f-b558fd377412@fr1.trojanvpn.de:443?peer=support.snapchat.com&plugin=obfs-local;obfs=websocket;obfs-host=fr1.trojanvpn.de;obfs-uri=/websocket#sshocean-support12_ws
+trojan://0091bdde-88db-4b40-b15f-b558fd377412@fr1.trojanvpn.de:2053?allowInsecure=1&peer=support.snapchat.com#sshocean-support12_tcp
+trojan://0091bdde-88db-4b40-b15f-b558fd377412@fr1.trojanvpn.de:443?allowInsecure=1&peer=support.snapchat.com&obfs=grpc&path=grpc#sshocean-support12_gRPC

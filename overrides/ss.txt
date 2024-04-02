@@ -1,0 +1,17 @@
+trojan://0091bdde-88db-4b40-b15f-b558fd377412@fr1.trojanvpn.de:443?allowInsecure=1&peer=support.snapchat.com&plugin=obfs-local;obfs=websocket;obfs-host=fr1.trojanvpn.de;obfs-uri=/websocket#sshocean-support12_ws
+trojan://0091bdde-88db-4b40-b15f-b558fd377412@fr1.trojanvpn.de:2053?allowInsecure=1&peer=support.snapchat.com#sshocean-support12_tcp
+trojan://0091bdde-88db-4b40-b15f-b558fd377412@fr1.trojanvpn.de:2053?allowInsecure=1&peer=support.snapchat.com#sshocean-support12_tcp-1280011393
+trojan://0091bdde-88db-4b40-b15f-b558fd377412@fr1.trojanvpn.de:443?allowInsecure=1&peer=support.snapchat.com&obfs=grpc&path=grpc#sshocean-support12_gRPC
+trojan://4449e883-3643-41c2-b15e-3083cf7092c8@us1.trojanvpn.de:443?allowInsecure=1&peer=support.snapchat.com&plugin=obfs-local;obfs=websocket;obfs-host=us1.trojanvpn.de;obfs-uri=/websocket#sshocean-sshocean1ss_ws
+trojan://4449e883-3643-41c2-b15e-3083cf7092c8@us1.trojanvpn.de:2053?allowInsecure=1&peer=support.snapchat.com#sshocean-sshocean1ss_tcp-3475797956
+vmess://YXV0bzo0MzVkZmY1NS05ZmNjLTRlMTAtYWM1ZS0zZjc4MjU1NGNhNzZAdXMxLXZtZXNzLnNzaG1heC54eXo6NDQz?remarks=sshmax-skgyvv&obfsParam=us1-vmess.sshmax.xyz&path=/vmess&obfs=websocket&tls=1&peer=support.snapchat.com&allowInsecure=1&alterId=0
+trojan://4ba6d02a-2f6f-4e39-9373-b52624eace50@fr1.trojanvpn.de:2053?allowInsecure=1&peer=support.snapchat.com#sshocean-sultan11_tcp
+trojan://xxoo@us.blazeppn.info:443?allowInsecure=1&peer=support.snapchat.com&alpn=h2,http/1.1#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0733
+trojan://opentunnel.net-trojanqw@det-1.optnl.com:443?allowInsecure=1&peer=support.snapchat.com#opentunnel.net-trojanqw
+vmess://YXV0bzo0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjRAMzguMTQuMTA3LjI0MjozODAwMQ?remarks=%F0%9F%87%BA%F0%9F%87%B8US-38.14.107.242-1437&obfsParam=www.23179753.xyz&path=/path/153428133302&obfs=websocket&tls=1&peer=support.snapchat.com&allowInsecure=1&alterId=64
+vmess://YXV0bzo0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjRAMzguMTQuMTA3LjI0MzozODAwMQ?remarks=%F0%9F%87%BA%F0%9F%87%B8US-38.14.107.243-1464&obfsParam=www.23179753.xyz&path=/path/153428133302&obfs=websocket&tls=1&peer=support.snapchat.com&allowInsecure=1&alterId=64
+trojan://xxoo@us.blazeppn.info:443?allowInsecure=1&peer=support.snapchat.com#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-1022
+trojan://opentunnel.net-whatusi@ust-2.optnl.com:443?allowInsecure=1&peer=support.snapchat.com#opentunnel.net-whatusi
+trojan://opentunnel.net-sultan11@ust-2.optnl.com:443?allowInsecure=1&peer=m.whatsapp.com#opentunnel.net-sultan11
+trojan://ca58b454-6ad3-4b88-8505-dfa5d4d1539b@us1.trojanvpn.xyz:443?allowInsecure=1&peer=support.snapchat.com&plugin=obfs-local;obfs=websocket;obfs-host=us1.trojanvpn.xyz;obfs-uri=/#sshmax-ssmaxsupport_trojan_ws
+sub://aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3N1bHRhbjFzYS9HdWlkZXMvbWFzdGVyL3Q

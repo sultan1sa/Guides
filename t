@@ -25,3 +25,5 @@ trojan://c7ac054b-5bef-4d4e-b8db-e11636d805a6@us1.trojanvpn.de:443?allowInsecure
 trojan://c7ac054b-5bef-4d4e-b8db-e11636d805a6@us1.trojanvpn.de:443?allowInsecure=1&peer=support.snapchat.com&plugin=obfs-local;obfs=websocket;obfs-host=us1.trojanvpn.de;obfs-uri=/websocket#sshocean-sshocean2rtujan_ws
 trojan://27876_t7d7f4e3f@23.142.200.175:443?allowInsecure=1&peer=support.snapchat.com#%F0%9F%87%BA%F0%9F%87%B8US-23.142.200.175-1062
 trojan://telegram-id-privatevpns@18.135.54.78:22222?allowInsecure=1&peer=support.snapchat.com#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
+vless://YXV0bzoyNzBiNDJkNy01MjVlLTRiMzktYmM1YS04YmVjNWZlZTc0ZGRAdXMyLnYydmxlc3MueHl6OjQ0Mw?remarks=sshocean-whatsapp1vless&obfsParam=us2.v2vless.xyz&path=/vless&obfs=websocket&tls=1&peer=whatsapp.com&allowInsecure=1
+vless://270b42d7-525e-4b39-bc5a-8bec5fee74dd@us2.v2vless.xyz:80?path=%2Fvless&encryption=none&host=us2.v2vless.xyz&sni=whatsapp.com&type=ws#sshocean-whatsapp1vless

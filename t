@@ -38,3 +38,4 @@ trojan://27876_t7d7f4e3f@23.142.200.175:443?allowInsecure=1&peer=support.snapcha
 vless://bm9uZTowOWUwMjI1NS1lYjM0LTQ2NjUtOTc5Zi1lZTQ0OGQ0NDQ2YWJANDUuNjYuMjQ5LjExNDo0NDM?remarks=%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.66.249.114:443%20%F0%9F%93%A1%20PING-055.82-MS&obfs=none&tls=1&peer=support.snapchat.com&allowInsecure=1&xtls=2
 vless://YXV0bzphMmRiNjU2Ni0zMmM3LTRlNmUtODlkNy1iMjU4ZmY1NTk1OWZANjYuMTMyLjE2MC45NToxNzIzMQ?remarks=%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%BA%F0%9F%87%B8%20US-66.132.160.95:17231%20%F0%9F%93%A1%20PING-043.05-MS&tls=1&peer=whatsapp.com&allowInsecure=1&xtls=2
 trojan://xxoo@us.blazeppn.info:443?allowInsecure=1&peer=whatsapp.com#%F0%9F%87%BA%F0%9F%87%B8%20US-138.197.5.103-6688%20%7C%2058.019MB
+trojan://wkmY1R4EcP@45.63.110.20:443?allowInsecure=1&peer=m.facebook.com#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.63.110.20:443%20%F0%9F%93%A1%20PING-022.45-MS

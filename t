@@ -28,3 +28,4 @@ trojan://telegram-id-privatevpns@18.135.54.78:22222?allowInsecure=1&peer=support
 vless://YXV0bzoyNzBiNDJkNy01MjVlLTRiMzktYmM1YS04YmVjNWZlZTc0ZGRAdXMyLnYydmxlc3MueHl6OjQ0Mw?remarks=sshocean-whatsapp1vless&obfsParam=us2.v2vless.xyz&path=/vless&obfs=websocket&tls=1&peer=whatsapp.com&allowInsecure=1
 vless://270b42d7-525e-4b39-bc5a-8bec5fee74dd@us2.v2vless.xyz:80?path=%2Fvless&encryption=none&host=us2.v2vless.xyz&sni=whatsapp.com&type=ws#sshocean-whatsapp1vless
 vless://YXV0bzowODFiZDVhYy00NTVmLTRmYjMtOGJhNS02MmYwYzVmYzEzMDVAZGUyLnYydmxlc3MueHl6OjQ0Mw?remarks=sshocean-v2ratvlessud&obfsParam=de2.v2vless.xyz&path=/vless&obfs=websocket&tls=1&peer=whatsapp.com&allowInsecure=1
+vless://bm9uZTowMGFhN2UzMS0wNTI3LTQ3NGItYmI3Ny01OTNlZWYxZDcwYTBAdmxlc3MtcnMtdXMwMy5nbG9iYWxzc2gueHl6OjQ0Mw?remarks=Blessvless-globalssh_vless_vision_reality&obfs=none&tls=1&peer=free.facebook.com&allowInsecure=1&xtls=2&pbk=UvtsgDmWIHJrEa1KyWzSwM1VOjWoCSbMZZpaxL2rwBU&sid=4646

@@ -65,3 +65,6 @@ trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?allowInsecure=1&pee
 trojan://13f351f2-da8e-41b9-bd54-b6a0e818db3d@45.79.9.231:443?allowInsecure=1&peer=support.snapchat.com#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.79.9.231:443%20%F0%9F%93%A1%20PING-022.65-MS
 trojan://2d2ce807-1584-4601-9716-d0fc2eaf1e64@50.116.21.188:443?allowInsecure=1&peer=support.snapchat.com#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-50.116.21.188:443%20%F0%9F%93%A1%20PING-022.52-MS
 trojan://982acf26-9720-432e-abd4-0a0dde3fdb29@172.105.25.249:443?allowInsecure=1&peer=support.snapchat.com#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-172.105.25.249:443%20%F0%9F%93%A1%20PING-013.67-MS
+trojan://telegram-id-directvpn@3.22.109.64:22222?allowInsecure=1&peer=support.snapchat.com#%F0%9F%87%BA%F0%9F%87%B8%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-3.22.109.64:22222%20%F0%9F%93%A1%20PING-053.83-MS
+trojan://2d2ce807-1584-4601-9716-d0fc2eaf1e64@50.116.21.188:443?allowInsecure=1&peer=support.snapchat.com#%F0%9F%87%BA%F0%9F%87%B8%20TR-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-50.116.21.188:443%20%F0%9F%93%A1%20PING-040.30-MS
+trojan://13f351f2-da8e-41b9-bd54-b6a0e818db3d@45.79.9.231:443?allowInsecure=1&peer=support.snapchat.com#%F0%9F%87%BA%F0%9F%87%B8%20TR-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-45.79.9.231:443%20%F0%9F%93%A1%20PING-039.90-MS
